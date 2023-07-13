@@ -5,6 +5,8 @@ function HomePage() {
     <div>
       Welcome to Next.js!
 
+      <img src="/images/avatar.png" />
+
       <ul>
         <li>
           <Link href="/sobre">
