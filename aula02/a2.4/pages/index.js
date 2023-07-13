@@ -12,8 +12,8 @@ export async function getStaticProps() {
 
 export default function HomeScreen({ posts }) {
   const infos = {
-    nome: 'Mario Souto',
-    githubUser: 'omariosouto',
+    nome: 'Robert Aron Zimmermann',
+    githubUser: 'RA4Z',
   }
   // const posts = dados.posts;
 
